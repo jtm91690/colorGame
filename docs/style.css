@@ -79,18 +79,6 @@ button:hover {
     float: left;
 }
 
-.content2 {
-    /*    float: left;*/
-}
-
-.content3 {
-    background-color: steelblue;
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-    top: 585px;
-}
-
 img {
     max-width: 200px;
     width: 50%;
